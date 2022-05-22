@@ -1,0 +1,166 @@
+{
+  "Employee": [
+    {
+      "name": "karthik",
+      "age": "24",
+      "gender": "male",
+      "contact": "8074031160",
+      "experience": "6-months",
+      "designation": "developer",
+      "id": 1
+    },
+    {
+      "name": "lokesh",
+      "age": "24",
+      "gender": "male",
+      "contact": "8497895065",
+      "experience": "7-months",
+      "designation": "front-end",
+      "id": 6
+    },
+    {
+      "name": "praveen",
+      "age": "21",
+      "gender": "male",
+      "contact": "105",
+      "experience": "7-months",
+      "designation": "back-end",
+      "id": 7
+    },
+    {
+      "name": "bhuvan",
+      "age": "24",
+      "gender": "male",
+      "contact": "108",
+      "experience": "8-months",
+      "designation": "full-stack",
+      "id": 9
+    },
+    {
+      "name": "shubhas",
+      "age": "24",
+      "gender": "male",
+      "contact": "110",
+      "experience": "7-months",
+      "designation": "back-end",
+      "id": 11
+    },
+    {
+      "name": "varadh",
+      "age": "22",
+      "gender": "male",
+      "contact": "220",
+      "experience": "6-months",
+      "designation": "front-end",
+      "id": 12
+    },
+    {
+      "name": "jhansi",
+      "age": "40",
+      "gender": "male",
+      "contact": "000",
+      "experience": "1-year",
+      "designation": "service",
+      "id": 14
+    },
+    {
+      "name": "sri vishnu",
+      "age": "27",
+      "gender": "male",
+      "contact": "200",
+      "experience": "1-year",
+      "designation": "front-end",
+      "id": 15
+    },
+    {
+      "name": "abdul",
+      "age": "20",
+      "gender": "male",
+      "contact": "5555",
+      "experience": "5-y",
+      "designation": "front",
+      "id": 16
+    },
+    {
+      "name": "john",
+      "age": "30",
+      "gender": "male",
+      "contact": "666",
+      "experience": "5-y",
+      "designation": "sales",
+      "id": 17
+    },
+    {
+      "name": "ffgdf",
+      "age": "dfgd",
+      "gender": "",
+      "contact": "",
+      "experience": "",
+      "designation": "",
+      "id": 18
+    },
+    {
+      "name": "john",
+      "age": "30",
+      "gender": "male",
+      "contact": "222",
+      "experience": "5-m",
+      "designation": "testing",
+      "id": 19
+    },
+    {
+      "name": "sweet",
+      "age": "30",
+      "gender": "female",
+      "contact": "100",
+      "experience": "0",
+      "designation": "mern-stack",
+      "id": 20
+    },
+    {
+      "name": "jake",
+      "age": "20",
+      "gender": "male",
+      "contact": "333",
+      "experience": "0",
+      "designation": "testing",
+      "id": 21
+    },
+    {
+      "name": "puppy",
+      "age": "23",
+      "gender": "male",
+      "contact": "",
+      "experience": "9-m",
+      "designation": "front",
+      "id": 22
+    },
+    {
+      "name": "this",
+      "age": "20",
+      "gender": "male",
+      "contact": "",
+      "experience": "5",
+      "designation": "test",
+      "id": 23
+    },
+    {
+      "name": "balaji",
+      "age": "25",
+      "gender": "male",
+      "contact": "9863241597",
+      "experience": "2yrs",
+      "designation": "senior app developer",
+      "id": 24
+    },
+    {
+      "name": "pankaj",
+      "age": "25",
+      "gender": "male",
+      "contact": "773088514",
+      "experience": "10",
+      "designation": "manager",
+      "id": 25
+    }
+  ]
+}

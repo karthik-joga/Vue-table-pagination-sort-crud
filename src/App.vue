@@ -1,32 +1,27 @@
 <template>
-  <div id="app">
-    <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
-    </nav>
-    <router-view/>
-  </div>
+<v-app >
+    <v-app-bar app flat class="purple" >
+        <div class="white--text text-h5" id="logo">
+            Employee Details
+        </div>
+        <v-spacer></v-spacer>
+        <div id="create">
+            <router-link to="/create" class="text-decoration-none"> 
+                <v-btn class="white--text" plain elevation="0" outlined>Create Employee</v-btn> </router-link>
+        </div>
+    </v-app-bar>
+
+    <v-main>
+    <router-view></router-view>
+    </v-main>
+</v-app>
 </template>
 
-<style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
+<script>
+export default{
+    mounted(){
+        let a=document.getElementById("create")
+        a.style.display=""
+    }
 }
-
-nav {
-  padding: 30px;
-}
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>
+</script>
